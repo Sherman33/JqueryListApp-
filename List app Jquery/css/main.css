@@ -1,0 +1,66 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+	text-align: center;
+	text-decoration: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+ul {
+	text-align: center;
+	list-style: none;
+}
+
+li:hover {
+	transition: 0.3s all;
+	background: #d9534f;
+	color: #fff;
+	cursor: pointer;
+}
+
+.badge {
+	background: #5bc0de;
+}
+
+#list-group {
+	margin: 20px 0px;
+}
+
+.jumbotron {
+	margin-bottom: 33px;
+}
+
+input[type="button"], input[type="text"] {
+	text-align: center;
+	margin-bottom: 25px;
+}
+
+footer {
+	height: 41%;
+}
+
+footer p {
+	padding-top: 365px;
+}
+
+.fa-times {
+	text-align: right;
+	float: right;
+	cursor: pointer;
+ }
+
+.error {
+	color: #d9534f;
+	display: none;
+}
