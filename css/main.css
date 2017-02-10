@@ -46,14 +46,6 @@ input[type="button"], input[type="text"] {
 	margin-bottom: 25px;
 }
 
-footer {
-	height: 41%;
-}
-
-footer p {
-	padding-top: 365px;
-}
-
 .fa-times {
 	text-align: right;
 	float: right;
